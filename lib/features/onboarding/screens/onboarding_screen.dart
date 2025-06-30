@@ -15,7 +15,7 @@ class OnboardingScreen extends StatelessWidget {
     return Scaffold(
       body: SafeArea(
         child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 30.w),
+          padding: EdgeInsets.symmetric(horizontal: 29.w),
           child: SingleChildScrollView(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
